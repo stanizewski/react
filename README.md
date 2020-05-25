@@ -1,3 +1,29 @@
+Varför react?
+
+React är ett effektivt och flexibelt Javascript bibliotek som används för att bygga användargränssnitt. React är skapat av Facebook och används idag utav tex instagram, Uber, Airbnb och självklart av Facebook.
+
+Enkelt förklarat är ett Javascript bibliotek ett typ av bibliotek som har färdiga funktioner man använder sig utav när man skriver Javascript. Ett bibliotek gör det alltså enklare att skriva komplex kod.
+
+Hur motiverar man valet av React?
+
+Reacts komponentbaserade karaktär innebär att det går fort och är enkelt att översätta design till kod.
+
+Komponenter medför att koden kan delas upp i små enheter och återanvändas i en eller flera appar utan att öka teknisk komplexitet.
+
+React lånar idéer från funktionell programmering som gör koden enkel att refaktorisera. Detta innebär att kodförändring är relativt billigt.
+
+React är det mest populära frontendramverket just nu och det har markant ökat i popularitet sedan 2014. Det är cirka 5 år, vilket är en evighet i JavaScript-världen. React har satt en standard i hur komponenter bör byggas och bete sig som nu är en standard inom industrin.
+
+Även om ett konkurrerande ramverk tar tronen under de kommande åren, innebär Reacts långvariga popularitet att det kommer att finnas en stark pool av React-utvecklare för att fortsätta projektet.
+
+React har använts i produktion av stora företag som Facebook, Microsoft, Netflix, Airbnb, Walmart, Paypal och många många fler.
+
+Reacts open source community är öppen, global och stöttande. De flesta problem har redan lösts och det finns standarder för hur man löser allting från autentisering, datahantering till SEO osv.
+
+Det finns ett mycket stort antal existerande komponenter som man kan importera till projekt och anpassa utefter eget behov. Därmed lägger man inte tid på att utveckla något från grunden.
+
+Dessa är några av de punkter som är fördelar med React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
